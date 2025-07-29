@@ -41,9 +41,9 @@ chmod -R 777 storage
 ## 使用技術(実行環境)
 
 ・php8.0
-・Laravel10.0
-・MySQL8.0
-
+・mysql  Ver 8.0.26
+・Laravel Framework 8.83.8
+・nginx version: nginx/1.21.1
 ## URL
 
 ```
